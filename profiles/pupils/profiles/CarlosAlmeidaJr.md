@@ -3,13 +3,11 @@
 # [Nome de seu mentor ou mentora](/profiles/mentors/profiles/perfil_do_seu_mentor_ou_mentora.md)
 
 ## Meu Nome
-
 Carlos Almeida Jr
 
 ## Qual meu sonho na carreira?
 
-Saber mais sobre Engenharia de Software: estudar, implantar e contínua atualização em design patterns, 
-arquitetura de sistemas e gerenciamento de projetos.
+Ter maior controle sobre temas de Engenharia de Software que versam sobre Arquitetura e Design Patterns.
 
 ## Alguns links para me conhecer melhor
 
